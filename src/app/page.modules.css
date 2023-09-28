@@ -1,0 +1,23 @@
+
+#h1:hover{
+    color: blanchedalmond;
+    scale: 1.1;
+ 
+
+
+}
+#sahal{
+    position: absolute;
+   right: 50%;
+}
+.para{
+
+  display:flex;
+justify-content: center;
+top: 20%;
+}
+.cent{
+    width: 100%;
+    display: flex;
+
+}
